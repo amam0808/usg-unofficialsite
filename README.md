@@ -1,4 +1,5 @@
 # usg-unofficialsite
+# https://amam0808.github.io/usg-unofficialsite/
 専門学校の1年次進級制作にて製作した非公式アーテイストWebサイトです。
 HTMLとCSSだけでどこまでクオリティの高いWebサイトを書けるのかということをテーマに取り組みました。
 現在今年度の進級制作に向けて制作物を鋭意製作中です。
